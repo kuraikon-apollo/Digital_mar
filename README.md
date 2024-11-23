@@ -1,4 +1,5 @@
 # Digital_mar
+V1.0.0
 A digital Medication Administration Record. Devlopment of an app for Foster Parents and Foster Agencies to use to keep track of foster childrens medication administration.
 File Structure
 DigitalMar/
@@ -19,3 +20,12 @@ MedicationTrackerApp/
 │   └── Medication.swift         // Data model for Medication
 ├── Data/
 │   └── MedicationStore.swift    // Handles data persistence (e.g., UserDefaults or Core Data)
+
+V1.0.1
+MyMedicationApp/
+├── Sources/
+│   ├── ContentView.swift
+│   ├── Medication.swift
+├── Package.swift (optional for Swift packages)
+├── README.md
+
